@@ -18,7 +18,7 @@ module.exports = {
       url: process.env.RPC_URL,
       accounts: [process.env.PRIVATE_KEY],
     },
-    mumbai: {
+    amoy: {
       url: process.env.P_RPC_URL,
       accounts: [process.env.PRIVATE_KEY],
     },
